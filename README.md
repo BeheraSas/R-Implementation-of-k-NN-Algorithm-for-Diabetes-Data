@@ -1,6 +1,6 @@
 # Title: k-NN Algorithm Demonstration for Diabetes Data  
 
-**Rbubs File:** https://rpubs.com/SasmitaB/1198919
+**Rpubs File:** https://rpubs.com/SasmitaB/1198919
 
 **Overview of k-NN Algorithm**
 
