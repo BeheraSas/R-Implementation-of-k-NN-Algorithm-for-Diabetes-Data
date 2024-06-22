@@ -1,11 +1,13 @@
-# Title: k-NN Algorithm Demonstration for Diabetes Data
+# Title: k-NN Algorithm Demonstration for Diabetes Data  
+
+**Rbubs File:** https://rpubs.com/SasmitaB/1198919
 
 **Overview of k-NN Algorithm**
 
 The k-Nearest Neighbors (k-NN) algorithm is a simple yet effective supervised learning method used for classification and regression tasks. It is non-parametric, meaning it does not make any assumptions about the underlying data distribution. Instead, it relies on the similarity of data points to make predictions.
 How k-NN Works
 
-   _ Training Phase:_
+    _Training Phase:_
         During the training phase, the algorithm simply stores all available data points and their corresponding class labels (in the case of classification tasks).
 
     _Prediction Phase:_
